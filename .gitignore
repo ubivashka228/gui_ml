@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+autoawq_env/
+.autoawq_env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Data/cache/output
+*.sqlite3
+*.db
+*.h5
+*.pth
+*.ckpt
+
+# Model files
+*.bin
+*.pt
+*.onnx
+
+# Environment files
+.env
+.env.*
+
+# Pip wheel files
+*.whl
+
+# Test output
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# Pyre type checker
+.pyre/
+
+
